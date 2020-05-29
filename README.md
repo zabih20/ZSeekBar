@@ -153,7 +153,7 @@ Just add following dependency in your module `build.gradle`:
 
 ```groovy
 dependencies {
-    implementation 'com.github.zabih1420:ZSeekBar:1.0'
+    implementation 'com.github.zabih20:ZSeekBar:1.0'
 }
 ```
 
